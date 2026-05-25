@@ -1,0 +1,301 @@
+Invoice ID,Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Tax 5%,Total,Date,Time,Payment,COGS,Gross margin percentage,Gross income,Rating
+9b9a153c,A,City A,visitante,Male,Eletronic accessories,87.71,2,8.77,184.19,2025-12-30,12:01:45,Credit Card,175.42,4.76,8.77,7.7
+cbcc36d7,A,City C,menbro,Female,Food and beverages,29.81,9,13.41,281.7,2025-06-01,10:47:11,Credit Card,268.29,4.76,13.41,4.4
+dd8ba1fc,C,City C,visitante,Male,Sport and travel,46.88,7,16.41,344.57,2025-10-31,02:20:37,Cash,328.16,4.76,16.41,5.8
+aa7236b4,C,City A,menbro,Male,Health and beauty,91.94,7,32.18,675.76,2025-06-05,22:48:51,Cash,643.58,4.76,32.18,4.8
+af17637e,B,City B,visitante,Female,Home and life style,99.94,10,49.97,1049.37,2025-02-26,09:41:06,Cash,999.4,4.76,49.97,7.7
+635acb64,A,City C,visitante,Male,Food and beverages,95.03,8,38.01,798.25,2026-01-03,21:34:11,Cash,760.24,4.76,38.01,7.7
+6650d2bc,B,City C,menbro,Female,Health and beauty,84.99,7,29.75,624.68,2025-05-25,21:37:55,Ewallet,594.93,4.76,29.75,5.2
+cfb10b4a,B,City B,visitante,Male,Fashion accessories,94.68,8,37.87,795.31,2025-07-03,20:29:52,Credit Card,757.44,4.76,37.87,9.9
+8ae029af,A,City A,visitante,Male,Food and beverages,44.67,2,4.47,93.81,2025-11-25,15:38:04,Ewallet,89.34,4.76,4.47,8.5
+946d1bc8,B,City C,menbro,Female,Home and life style,20.55,9,9.25,194.2,2026-01-24,23:51:02,Credit Card,184.95,4.76,9.25,6.9
+9784e8a1,A,City A,visitante,Male,Eletronic accessories,28.12,8,11.25,236.21,2025-07-14,20:59:12,Credit Card,224.96,4.76,11.25,8.4
+89bfcdd3,C,City A,visitante,Female,Food and beverages,15.34,6,4.6,96.64,2025-10-02,16:21:06,Cash,92.04,4.76,4.6,7.4
+fb765315,C,City B,menbro,Male,Eletronic accessories,33.78,6,10.13,212.81,2025-10-29,04:26:09,Cash,202.68,4.76,10.13,8.0
+edc28c2d,A,City B,menbro,Male,Sport and travel,60.91,1,3.05,63.96,2025-12-01,18:15:09,Ewallet,60.91,4.76,3.05,8.2
+894a85c0,B,City B,menbro,Male,Health and beauty,24.24,6,7.27,152.71,2025-10-29,02:16:06,Credit Card,145.44,4.76,7.27,7.2
+f312abfb,B,City A,menbro,Female,Fashion accessories,75.73,9,34.08,715.65,2025-11-13,20:02:09,Cash,681.57,4.76,34.08,4.3
+12aad565,B,City B,menbro,Female,Fashion accessories,14.21,1,0.71,14.92,2025-03-14,06:01:23,Cash,14.21,4.76,0.71,4.2
+0c2316d5,C,City B,visitante,Female,Fashion accessories,55.39,3,8.31,174.48,2025-08-07,11:14:02,Ewallet,166.17,4.76,8.31,7.0
+22e04c48,C,City B,menbro,Female,Fashion accessories,50.92,8,20.37,427.73,2025-07-27,01:29:54,Cash,407.36,4.76,20.37,9.0
+441567eb,C,City B,visitante,Female,Food and beverages,39.46,1,1.97,41.43,2025-04-03,04:53:56,Ewallet,39.46,4.76,1.97,5.7
+55d81d58,A,City A,menbro,Female,Home and life style,85.24,1,4.26,89.5,2025-09-12,18:16:38,Cash,85.24,4.76,4.26,5.0
+6acdb86f,A,City B,visitante,Female,Sport and travel,87.03,2,8.7,182.76,2025-03-26,03:22:22,Credit Card,174.06,4.76,8.7,4.7
+a9f36b90,A,City C,visitante,Male,Home and life style,60.49,3,9.07,190.54,2025-09-30,19:51:45,Cash,181.47,4.76,9.07,4.7
+a51f025a,B,City C,menbro,Female,Eletronic accessories,78.97,5,19.74,414.59,2026-01-20,21:13:02,Ewallet,394.85,4.76,19.74,4.2
+8f1f9620,A,City B,menbro,Male,Food and beverages,92.75,6,27.83,584.33,2025-06-12,09:44:45,Ewallet,556.5,4.76,27.83,4.0
+5a63148c,C,City B,visitante,Female,Sport and travel,69.59,8,27.84,584.56,2026-02-05,19:51:32,Ewallet,556.72,4.76,27.84,7.1
+cdf4387b,C,City B,menbro,Male,Home and life style,75.48,2,7.55,158.51,2026-01-15,03:52:02,Credit Card,150.96,4.76,7.55,8.5
+b35d3c64,A,City C,menbro,Female,Home and life style,92.5,3,13.88,291.38,2025-07-23,01:22:44,Cash,277.5,4.76,13.88,9.7
+eda10098,C,City A,menbro,Female,Eletronic accessories,77.81,9,35.01,735.3,2025-10-06,10:44:48,Credit Card,700.29,4.76,35.01,8.2
+673157f7,B,City C,menbro,Male,Health and beauty,50.47,2,5.05,105.99,2025-09-28,12:41:44,Ewallet,100.94,4.76,5.05,5.4
+aaf47ba6,A,City C,menbro,Male,Food and beverages,58.78,2,5.88,123.44,2025-12-02,16:00:00,Cash,117.56,4.76,5.88,4.9
+6529adb7,B,City B,menbro,Male,Sport and travel,30.65,6,9.19,193.09,2025-11-15,02:10:37,Cash,183.9,4.76,9.19,8.5
+d0f86a87,A,City C,visitante,Male,Food and beverages,23.68,2,2.37,49.73,2025-06-17,12:49:07,Cash,47.36,4.76,2.37,7.4
+320882e6,C,City C,menbro,Female,Eletronic accessories,50.46,8,20.18,423.86,2025-03-21,12:12:16,Cash,403.68,4.76,20.18,4.1
+ee34f61c,C,City C,menbro,Female,Fashion accessories,39.23,10,19.61,411.91,2025-08-10,21:38:33,Ewallet,392.3,4.76,19.61,4.7
+2a5aa5d6,A,City B,menbro,Female,Eletronic accessories,84.8,6,25.44,534.24,2025-08-28,07:27:31,Cash,508.8,4.76,25.44,9.0
+d3244709,B,City B,visitante,Female,Eletronic accessories,70.45,9,31.7,665.75,2025-03-04,17:37:17,Cash,634.05,4.76,31.7,9.9
+035d9b6c,B,City A,menbro,Male,Health and beauty,62.63,6,18.79,394.57,2025-06-06,02:08:20,Cash,375.78,4.76,18.79,9.8
+1727d71c,A,City C,visitante,Male,Sport and travel,35.01,2,3.5,73.52,2025-07-20,20:34:09,Cash,70.02,4.76,3.5,8.0
+4b803209,C,City A,menbro,Male,Eletronic accessories,31.51,4,6.3,132.34,2026-01-13,00:07:08,Credit Card,126.04,4.76,6.3,8.1
+8c50ff14,C,City C,menbro,Male,Eletronic accessories,81.97,9,36.89,774.62,2025-04-29,12:20:16,Credit Card,737.73,4.76,36.89,4.5
+f5a6c969,A,City B,menbro,Male,Food and beverages,95.18,4,19.04,399.76,2025-06-26,04:04:02,Cash,380.72,4.76,19.04,9.8
+560b5a71,B,City B,visitante,Female,Eletronic accessories,95.98,10,47.99,1007.79,2025-08-20,10:19:25,Ewallet,959.8,4.76,47.99,7.8
+73bcfa0e,A,City A,visitante,Male,Fashion accessories,98.18,6,29.45,618.53,2025-09-28,07:09:45,Ewallet,589.08,4.76,29.45,9.6
+8a504c9d,B,City C,menbro,Male,Health and beauty,61.7,5,15.43,323.93,2025-06-01,18:50:09,Ewallet,308.5,4.76,15.43,6.3
+7ac7330a,B,City C,menbro,Female,Fashion accessories,51.94,10,25.97,545.37,2025-11-07,20:59:17,Ewallet,519.4,4.76,25.97,7.6
+c965441c,A,City A,visitante,Male,Sport and travel,65.1,9,29.3,615.2,2025-10-01,07:01:47,Cash,585.9,4.76,29.3,6.9
+c74da51d,A,City A,menbro,Male,Fashion accessories,10.46,4,2.09,43.93,2025-08-09,04:23:25,Cash,41.84,4.76,2.09,8.8
+4df157b2,B,City C,menbro,Female,Fashion accessories,66.2,5,16.55,347.55,2025-11-25,15:07:26,Cash,331.0,4.76,16.55,5.3
+3c93156e,C,City C,menbro,Female,Food and beverages,36.95,9,16.63,349.18,2026-01-07,12:21:11,Cash,332.55,4.76,16.63,6.6
+c7e8cdea,B,City C,menbro,Female,Fashion accessories,43.01,5,10.75,225.8,2025-07-19,05:50:40,Credit Card,215.05,4.76,10.75,8.4
+1c8c368c,B,City A,visitante,Female,Fashion accessories,80.72,10,40.36,847.56,2025-04-01,15:23:48,Cash,807.2,4.76,40.36,7.9
+f826c59b,A,City B,menbro,Female,Fashion accessories,45.23,8,18.09,379.93,2025-09-19,12:37:20,Ewallet,361.84,4.76,18.09,6.8
+604775ed,A,City B,visitante,Male,Fashion accessories,38.15,2,3.81,80.11,2025-06-24,00:38:05,Credit Card,76.3,4.76,3.81,5.2
+7102bbbc,C,City A,menbro,Male,Fashion accessories,98.93,8,39.57,831.01,2026-02-11,05:10:50,Credit Card,791.44,4.76,39.57,6.7
+b52fcd7d,B,City A,visitante,Male,Eletronic accessories,15.84,8,6.34,133.06,2026-02-22,15:18:21,Cash,126.72,4.76,6.34,4.4
+636a279a,B,City B,menbro,Female,Health and beauty,99.17,7,34.71,728.9,2026-01-25,21:58:48,Ewallet,694.19,4.76,34.71,4.2
+4a211847,A,City B,menbro,Female,Eletronic accessories,54.35,5,13.59,285.34,2025-10-20,08:14:06,Credit Card,271.75,4.76,13.59,6.6
+a291d782,B,City A,visitante,Male,Food and beverages,42.02,10,21.01,441.21,2026-02-09,17:24:32,Credit Card,420.2,4.76,21.01,4.7
+46f71ba8,C,City C,visitante,Female,Health and beauty,42.58,9,19.16,402.38,2025-10-03,13:24:44,Ewallet,383.22,4.76,19.16,4.4
+09d7b785,A,City B,menbro,Female,Fashion accessories,87.05,2,8.71,182.81,2025-04-13,22:22:29,Cash,174.1,4.76,8.71,9.3
+20fb0e22,B,City A,menbro,Male,Eletronic accessories,88.13,8,35.25,740.29,2025-06-04,20:15:24,Ewallet,705.04,4.76,35.25,7.9
+f20bf487,A,City A,visitante,Female,Health and beauty,84.4,2,8.44,177.24,2025-11-24,01:11:39,Cash,168.8,4.76,8.44,4.5
+107cbdf6,B,City C,menbro,Male,Home and life style,99.27,6,29.78,625.4,2025-12-06,01:49:24,Ewallet,595.62,4.76,29.78,7.3
+a6c57bc5,A,City B,menbro,Female,Sport and travel,95.33,10,47.66,1000.96,2025-02-27,11:56:16,Credit Card,953.3,4.76,47.66,4.3
+0fb8a7dd,C,City A,menbro,Female,Food and beverages,49.16,2,4.92,103.24,2025-12-21,18:08:49,Credit Card,98.32,4.76,4.92,5.1
+b871a198,C,City A,visitante,Female,Home and life style,74.51,7,26.08,547.65,2025-07-15,10:34:08,Cash,521.57,4.76,26.08,9.2
+9435bb7b,C,City C,menbro,Female,Home and life style,22.53,3,3.38,70.97,2026-02-18,20:32:16,Ewallet,67.59,4.76,3.38,9.6
+cda903b0,B,City A,visitante,Male,Fashion accessories,41.0,10,20.5,430.5,2025-04-25,10:59:33,Ewallet,410.0,4.76,20.5,5.6
+9b232d02,B,City B,visitante,Male,Sport and travel,92.84,8,37.14,779.86,2025-10-16,10:03:46,Cash,742.72,4.76,37.14,8.3
+c693ace4,C,City B,menbro,Female,Home and life style,30.69,1,1.53,32.22,2025-09-01,06:31:36,Ewallet,30.69,4.76,1.53,7.5
+f6bce4f5,B,City A,menbro,Male,Home and life style,23.89,7,8.36,175.59,2025-06-15,06:03:03,Cash,167.23,4.76,8.36,8.8
+fab0edb7,C,City B,menbro,Female,Eletronic accessories,84.3,7,29.51,619.61,2025-04-01,05:03:31,Ewallet,590.1,4.76,29.51,5.9
+8c331c8a,C,City A,menbro,Male,Sport and travel,51.9,10,25.95,544.95,2025-08-26,16:33:30,Credit Card,519.0,4.76,25.95,5.5
+44679887,B,City A,menbro,Male,Eletronic accessories,15.82,3,2.37,49.83,2025-06-07,21:47:29,Ewallet,47.46,4.76,2.37,7.3
+85e1ccb9,A,City A,visitante,Male,Home and life style,43.68,1,2.18,45.86,2025-11-03,11:56:59,Ewallet,43.68,4.76,2.18,9.1
+3fd79fe3,B,City B,menbro,Female,Health and beauty,75.21,6,22.56,473.82,2025-03-12,16:37:01,Credit Card,451.26,4.76,22.56,9.1
+a05eadf3,B,City A,visitante,Female,Eletronic accessories,14.42,6,4.33,90.85,2025-04-03,15:51:08,Credit Card,86.52,4.76,4.33,5.2
+6f9ce7ae,B,City B,menbro,Male,Sport and travel,40.14,10,20.07,421.47,2025-09-03,10:15:34,Ewallet,401.4,4.76,20.07,6.1
+6e395726,B,City B,menbro,Female,Food and beverages,91.11,10,45.56,956.66,2025-10-14,23:34:52,Cash,911.1,4.76,45.56,5.1
+b7d26aad,C,City C,visitante,Female,Sport and travel,25.59,6,7.68,161.22,2025-03-26,00:32:49,Ewallet,153.54,4.76,7.68,5.9
+d88ae734,C,City B,visitante,Female,Food and beverages,41.97,4,8.39,176.27,2026-01-13,09:52:02,Cash,167.88,4.76,8.39,8.0
+41717ce2,C,City B,menbro,Female,Sport and travel,22.75,9,10.24,214.99,2025-08-02,06:19:17,Ewallet,204.75,4.76,10.24,6.2
+f3000842,A,City C,menbro,Male,Food and beverages,10.62,1,0.53,11.15,2025-08-10,16:51:26,Ewallet,10.62,4.76,0.53,9.2
+4e763d60,C,City B,visitante,Male,Sport and travel,49.97,1,2.5,52.47,2025-07-28,12:07:35,Credit Card,49.97,4.76,2.5,8.3
+f09f7f4c,C,City C,menbro,Male,Fashion accessories,60.98,1,3.05,64.03,2025-12-10,21:00:38,Ewallet,60.98,4.76,3.05,9.7
+e38cc504,B,City C,visitante,Male,Food and beverages,25.08,3,3.76,79.0,2025-08-19,11:54:16,Ewallet,75.24,4.76,3.76,5.9
+ce892ff5,A,City B,menbro,Male,Fashion accessories,36.65,7,12.83,269.38,2025-07-11,01:10:14,Ewallet,256.55,4.76,12.83,8.0
+29988a9a,C,City B,visitante,Male,Health and beauty,98.76,8,39.5,829.58,2025-12-14,00:26:22,Credit Card,790.08,4.76,39.5,4.0
+1849791a,B,City C,visitante,Male,Eletronic accessories,27.68,4,5.54,116.26,2025-05-24,13:43:01,Cash,110.72,4.76,5.54,5.8
+ad934911,B,City B,menbro,Male,Health and beauty,12.12,8,4.85,101.81,2026-01-07,19:16:19,Ewallet,96.96,4.76,4.85,8.6
+2d0eb3d0,C,City C,visitante,Male,Food and beverages,18.34,9,8.25,173.31,2025-03-20,00:57:20,Cash,165.06,4.76,8.25,8.9
+636df654,B,City A,menbro,Male,Health and beauty,86.89,4,17.38,364.94,2025-10-20,17:41:25,Ewallet,347.56,4.76,17.38,8.1
+0002eb1b,C,City B,visitante,Male,Food and beverages,69.21,9,31.14,654.03,2025-03-30,01:53:06,Credit Card,622.89,4.76,31.14,7.1
+639e0683,B,City C,visitante,Female,Home and life style,11.19,6,3.36,70.5,2025-12-24,06:55:23,Ewallet,67.14,4.76,3.36,6.7
+29984ca7,B,City B,menbro,Male,Health and beauty,77.59,8,31.04,651.76,2025-12-17,07:35:35,Credit Card,620.72,4.76,31.04,4.7
+2ee88521,B,City B,visitante,Female,Sport and travel,56.38,1,2.82,59.2,2025-05-22,10:56:17,Credit Card,56.38,4.76,2.82,8.9
+81db42a7,C,City C,menbro,Male,Food and beverages,90.65,1,4.53,95.18,2025-06-27,12:34:01,Ewallet,90.65,4.76,4.53,5.7
+65f18a32,B,City A,menbro,Female,Eletronic accessories,92.78,9,41.75,876.77,2025-06-07,04:43:39,Credit Card,835.02,4.76,41.75,8.7
+9d23cc3d,A,City A,menbro,Male,Eletronic accessories,24.5,4,4.9,102.9,2025-08-18,21:34:20,Cash,98.0,4.76,4.9,8.0
+2019dd18,A,City B,visitante,Male,Health and beauty,95.44,4,19.09,400.85,2025-11-20,19:52:55,Cash,381.76,4.76,19.09,6.0
+656b30cf,B,City A,visitante,Male,Health and beauty,79.94,3,11.99,251.81,2025-02-24,20:13:24,Ewallet,239.82,4.76,11.99,7.5
+95a8b094,C,City C,menbro,Male,Sport and travel,58.48,7,20.47,429.83,2025-10-22,11:03:26,Ewallet,409.36,4.76,20.47,8.5
+83ca0fa8,C,City C,visitante,Female,Sport and travel,14.26,3,2.14,44.92,2025-05-22,12:24:51,Cash,42.78,4.76,2.14,5.6
+4acb86ad,A,City A,visitante,Male,Sport and travel,32.2,2,3.22,67.62,2026-02-17,17:24:27,Credit Card,64.4,4.76,3.22,5.4
+f8be8499,C,City B,menbro,Female,Fashion accessories,76.73,5,19.18,402.83,2025-12-14,13:44:34,Credit Card,383.65,4.76,19.18,5.4
+e1fea9d4,A,City C,menbro,Female,Sport and travel,76.23,9,34.3,720.37,2026-02-13,21:09:53,Cash,686.07,4.76,34.3,4.1
+b1609268,C,City C,menbro,Male,Food and beverages,73.5,5,18.38,385.88,2025-10-13,08:37:45,Cash,367.5,4.76,18.38,5.0
+1d7c1fdb,C,City A,menbro,Male,Food and beverages,67.82,8,27.13,569.69,2025-03-04,13:30:08,Credit Card,542.56,4.76,27.13,8.1
+8fa80970,C,City C,menbro,Male,Food and beverages,72.19,4,14.44,303.2,2025-08-10,13:19:54,Credit Card,288.76,4.76,14.44,5.8
+d524d26c,C,City B,menbro,Female,Health and beauty,54.48,5,13.62,286.02,2025-05-04,04:26:06,Credit Card,272.4,4.76,13.62,4.6
+c4ac51b3,A,City C,menbro,Male,Health and beauty,47.21,3,7.08,148.71,2026-02-21,05:50:28,Ewallet,141.63,4.76,7.08,4.4
+b698f96b,B,City A,visitante,Female,Eletronic accessories,78.0,8,31.2,655.2,2025-06-07,11:04:53,Credit Card,624.0,4.76,31.2,4.2
+126159bb,A,City C,visitante,Male,Sport and travel,17.89,9,8.05,169.06,2025-11-03,02:41:05,Cash,161.01,4.76,8.05,7.3
+5ee8b576,B,City A,menbro,Male,Health and beauty,48.81,5,12.2,256.25,2025-04-03,13:41:44,Credit Card,244.05,4.76,12.2,9.8
+8bb43d6c,B,City C,visitante,Male,Sport and travel,49.11,4,9.82,206.26,2026-01-29,08:51:12,Cash,196.44,4.76,9.82,5.6
+2e4c628a,C,City A,menbro,Male,Home and life style,50.65,3,7.6,159.55,2025-11-22,04:04:04,Ewallet,151.95,4.76,7.6,5.9
+5e721d50,B,City C,menbro,Male,Health and beauty,83.5,1,4.17,87.67,2025-04-10,11:39:28,Ewallet,83.5,4.76,4.17,5.6
+c04b063b,A,City A,menbro,Male,Sport and travel,33.06,3,4.96,104.14,2025-08-06,13:26:35,Credit Card,99.18,4.76,4.96,8.7
+1166dcd8,B,City A,menbro,Female,Health and beauty,70.5,7,24.68,518.18,2025-07-04,11:46:26,Credit Card,493.5,4.76,24.68,6.9
+d8a107ab,B,City C,visitante,Female,Health and beauty,26.59,3,3.99,83.76,2025-11-06,23:54:59,Ewallet,79.77,4.76,3.99,8.8
+c5fa6bea,C,City C,visitante,Female,Health and beauty,76.42,3,11.46,240.72,2025-09-29,21:14:52,Cash,229.26,4.76,11.46,6.7
+d1d42e07,C,City B,visitante,Female,Fashion accessories,72.65,5,18.16,381.41,2025-09-01,10:13:29,Credit Card,363.25,4.76,18.16,5.8
+a9db91bc,C,City C,menbro,Male,Health and beauty,68.09,10,34.05,714.95,2025-06-06,11:33:37,Cash,680.9,4.76,34.05,7.1
+a350c920,B,City A,menbro,Female,Food and beverages,87.69,8,35.08,736.6,2026-01-24,12:01:32,Cash,701.52,4.76,35.08,8.8
+47ecee10,B,City A,menbro,Male,Health and beauty,49.7,7,17.4,365.3,2025-11-23,16:14:41,Cash,347.9,4.76,17.4,8.7
+f1512700,C,City A,visitante,Female,Sport and travel,89.77,6,26.93,565.55,2025-11-16,13:42:10,Credit Card,538.62,4.76,26.93,4.0
+2b810e2a,B,City A,visitante,Female,Home and life style,22.56,2,2.26,47.38,2026-01-26,12:36:46,Cash,45.12,4.76,2.26,5.1
+30b6bb01,A,City C,menbro,Female,Home and life style,75.94,9,34.17,717.63,2025-06-02,04:37:10,Credit Card,683.46,4.76,34.17,7.9
+1dd4be17,B,City B,menbro,Male,Food and beverages,45.35,7,15.87,333.32,2025-04-03,03:46:29,Credit Card,317.45,4.76,15.87,6.7
+360685eb,A,City B,menbro,Male,Health and beauty,80.67,4,16.13,338.81,2025-11-02,10:27:17,Cash,322.68,4.76,16.13,9.0
+ceeea37c,B,City C,menbro,Male,Sport and travel,12.98,9,5.84,122.66,2025-11-10,19:52:43,Credit Card,116.82,4.76,5.84,6.5
+7d789b3a,C,City C,menbro,Female,Health and beauty,17.67,1,0.88,18.55,2025-09-04,13:15:20,Credit Card,17.67,4.76,0.88,4.8
+7643ef73,B,City A,menbro,Male,Sport and travel,77.93,5,19.48,409.13,2025-06-25,20:10:02,Ewallet,389.65,4.76,19.48,5.3
+012f8047,A,City B,visitante,Male,Home and life style,81.16,3,12.17,255.65,2025-07-19,19:18:20,Cash,243.48,4.76,12.17,5.5
+3814902a,A,City C,menbro,Male,Sport and travel,15.03,2,1.5,31.56,2025-12-12,13:53:22,Credit Card,30.06,4.76,1.5,6.3
+5dd85fcd,A,City A,visitante,Male,Sport and travel,72.9,9,32.8,688.9,2025-12-29,03:28:03,Cash,656.1,4.76,32.8,7.2
+c013befd,C,City B,menbro,Male,Eletronic accessories,99.18,7,34.71,728.97,2026-02-04,23:38:42,Ewallet,694.26,4.76,34.71,8.8
+6d416bed,A,City C,visitante,Male,Health and beauty,71.75,5,17.94,376.69,2025-04-21,05:49:04,Credit Card,358.75,4.76,17.94,6.3
+390ff85e,A,City B,menbro,Male,Eletronic accessories,89.52,3,13.43,281.99,2025-06-29,12:46:41,Credit Card,268.56,4.76,13.43,8.0
+679ddff4,B,City A,menbro,Male,Sport and travel,60.85,6,18.26,383.36,2025-07-03,17:26:36,Credit Card,365.1,4.76,18.26,4.3
+779a073d,B,City C,visitante,Male,Home and life style,86.69,1,4.33,91.02,2025-10-29,15:34:25,Credit Card,86.69,4.76,4.33,5.5
+2d8d5015,B,City C,menbro,Female,Health and beauty,22.19,2,2.22,46.6,2025-05-29,04:19:12,Ewallet,44.38,4.76,2.22,8.6
+b1bc2758,C,City B,visitante,Male,Health and beauty,29.39,3,4.41,92.58,2026-01-16,17:03:20,Credit Card,88.17,4.76,4.41,6.3
+51fc8a22,B,City A,menbro,Male,Fashion accessories,86.76,7,30.37,637.69,2026-02-07,20:43:27,Ewallet,607.32,4.76,30.37,6.8
+c20f1fe9,B,City A,visitante,Female,Sport and travel,68.23,3,10.23,214.92,2025-03-30,07:39:19,Cash,204.69,4.76,10.23,6.8
+b21627eb,B,City A,menbro,Male,Eletronic accessories,69.24,2,6.92,145.4,2025-05-07,18:19:07,Ewallet,138.48,4.76,6.92,7.5
+b9ba8d8e,C,City A,menbro,Female,Health and beauty,27.79,6,8.34,175.08,2025-10-18,08:09:57,Credit Card,166.74,4.76,8.34,4.3
+1df105d1,A,City B,visitante,Male,Home and life style,68.69,2,6.87,144.25,2025-12-01,02:40:52,Credit Card,137.38,4.76,6.87,10.0
+4bd70712,A,City C,menbro,Male,Home and life style,21.64,7,7.57,159.05,2025-07-19,19:18:17,Credit Card,151.48,4.76,7.57,6.6
+63e1f7d7,A,City A,visitante,Male,Fashion accessories,83.88,3,12.58,264.22,2026-02-22,10:58:14,Credit Card,251.64,4.76,12.58,9.5
+0725f719,A,City A,menbro,Female,Sport and travel,68.79,10,34.4,722.3,2026-01-12,08:39:08,Ewallet,687.9,4.76,34.4,4.3
+adeb1d33,C,City C,menbro,Male,Sport and travel,60.72,5,15.18,318.78,2025-05-05,09:10:41,Cash,303.6,4.76,15.18,7.1
+c481cadc,A,City A,visitante,Female,Fashion accessories,41.22,1,2.06,43.28,2025-04-05,17:44:59,Ewallet,41.22,4.76,2.06,9.5
+340f9e1b,B,City B,visitante,Male,Health and beauty,58.61,4,11.72,246.16,2026-01-03,05:32:53,Cash,234.44,4.76,11.72,7.1
+a05db176,C,City B,visitante,Female,Fashion accessories,21.58,2,2.16,45.32,2025-10-19,09:53:27,Credit Card,43.16,4.76,2.16,5.4
+1f1185b7,C,City A,visitante,Male,Home and life style,88.45,3,13.27,278.62,2025-11-18,15:02:14,Credit Card,265.35,4.76,13.27,7.6
+55f96db5,B,City B,menbro,Female,Sport and travel,43.09,3,6.46,135.73,2026-02-14,23:01:40,Credit Card,129.27,4.76,6.46,6.0
+a68814bb,C,City B,menbro,Male,Home and life style,87.41,2,8.74,183.56,2025-10-24,06:19:35,Credit Card,174.82,4.76,8.74,4.8
+0b23808e,B,City B,menbro,Female,Food and beverages,15.83,4,3.17,66.49,2025-03-03,16:02:37,Ewallet,63.32,4.76,3.17,6.5
+649a4952,C,City B,menbro,Male,Food and beverages,88.16,3,13.22,277.7,2025-09-27,08:15:29,Credit Card,264.48,4.76,13.22,8.5
+afb73318,C,City C,menbro,Female,Health and beauty,55.76,2,5.58,117.1,2025-05-13,11:58:55,Cash,111.52,4.76,5.58,7.4
+ce29bb7c,B,City B,menbro,Female,Sport and travel,72.41,4,14.48,304.12,2025-08-18,07:25:10,Ewallet,289.64,4.76,14.48,7.4
+6a069475,A,City C,menbro,Female,Health and beauty,62.69,10,31.34,658.24,2025-05-12,13:53:41,Credit Card,626.9,4.76,31.34,6.2
+ef01eadc,A,City A,visitante,Male,Health and beauty,58.28,6,17.48,367.16,2025-03-07,11:50:51,Credit Card,349.68,4.76,17.48,6.9
+8f408262,A,City A,menbro,Female,Health and beauty,72.47,8,28.99,608.75,2025-10-03,09:33:29,Cash,579.76,4.76,28.99,4.2
+1c9811ee,C,City B,menbro,Male,Fashion accessories,30.2,1,1.51,31.71,2026-02-11,12:30:09,Ewallet,30.2,4.76,1.51,9.1
+236efa65,C,City B,visitante,Female,Fashion accessories,26.7,5,6.68,140.18,2025-05-16,16:02:23,Credit Card,133.5,4.76,6.68,4.5
+90f32ca4,B,City A,menbro,Male,Eletronic accessories,97.43,7,34.1,716.11,2025-05-07,17:55:38,Ewallet,682.01,4.76,34.1,10.0
+c80b2cd6,C,City B,visitante,Male,Home and life style,48.01,4,9.6,201.64,2025-04-29,15:32:54,Ewallet,192.04,4.76,9.6,5.0
+70d42bc2,B,City B,menbro,Male,Eletronic accessories,11.0,3,1.65,34.65,2025-04-15,14:33:29,Ewallet,33.0,4.76,1.65,6.1
+a1d545b2,B,City C,menbro,Male,Food and beverages,13.67,3,2.05,43.06,2026-02-14,16:09:55,Cash,41.01,4.76,2.05,7.4
+820c4be5,C,City B,visitante,Male,Fashion accessories,90.53,7,31.69,665.4,2026-02-03,10:46:45,Credit Card,633.71,4.76,31.69,9.6
+2339274e,A,City A,visitante,Female,Home and life style,12.64,3,1.9,39.82,2025-11-04,00:26:40,Credit Card,37.92,4.76,1.9,8.7
+1c6ab17a,A,City B,menbro,Female,Home and life style,62.5,8,25.0,525.0,2025-05-22,18:19:26,Credit Card,500.0,4.76,25.0,6.4
+bb12d670,A,City C,visitante,Male,Sport and travel,32.09,9,14.44,303.25,2025-04-30,15:32:58,Credit Card,288.81,4.76,14.44,8.6
+567dec23,B,City C,visitante,Female,Eletronic accessories,66.16,5,16.54,347.34,2025-03-06,10:05:54,Cash,330.8,4.76,16.54,9.9
+c0cf2287,B,City B,visitante,Female,Fashion accessories,54.03,10,27.02,567.32,2025-10-13,02:41:31,Credit Card,540.3,4.76,27.02,4.8
+6c1ca22d,A,City B,visitante,Male,Food and beverages,64.54,10,32.27,677.67,2025-03-22,07:42:37,Cash,645.4,4.76,32.27,8.2
+72979331,A,City C,visitante,Female,Fashion accessories,23.51,10,11.76,246.86,2025-03-14,01:39:22,Cash,235.1,4.76,11.76,6.5
+9118adf4,A,City B,menbro,Male,Eletronic accessories,31.47,4,6.29,132.17,2026-01-19,06:06:47,Ewallet,125.88,4.76,6.29,8.8
+a993e736,A,City B,menbro,Male,Home and life style,34.97,7,12.24,257.03,2025-12-09,07:18:10,Cash,244.79,4.76,12.24,10.0
+adc176b1,C,City B,visitante,Male,Sport and travel,10.09,6,3.03,63.57,2025-11-12,08:08:01,Credit Card,60.54,4.76,3.03,5.4
+100a867a,A,City C,visitante,Male,Fashion accessories,65.75,7,23.01,483.26,2025-09-29,20:18:30,Cash,460.25,4.76,23.01,5.9
+7d9fa151,C,City C,menbro,Female,Eletronic accessories,58.21,8,23.28,488.96,2025-12-30,19:36:05,Ewallet,465.68,4.76,23.28,6.2
+4284b204,C,City B,visitante,Male,Food and beverages,35.98,5,8.99,188.89,2025-10-08,07:01:41,Cash,179.9,4.76,8.99,6.8
+50857070,A,City A,menbro,Male,Sport and travel,85.13,5,21.28,446.93,2025-05-19,20:05:11,Cash,425.65,4.76,21.28,9.5
+276bd474,A,City A,visitante,Male,Home and life style,38.57,7,13.5,283.49,2025-09-18,23:01:23,Credit Card,269.99,4.76,13.5,8.0
+26f31eba,A,City B,menbro,Female,Sport and travel,11.14,7,3.9,81.88,2026-01-06,23:37:14,Credit Card,77.98,4.76,3.9,7.8
+f4aadbcf,A,City B,visitante,Male,Home and life style,36.99,3,5.55,116.52,2025-04-05,08:22:03,Credit Card,110.97,4.76,5.55,6.2
+1e48b6c0,C,City C,visitante,Female,Health and beauty,37.29,1,1.86,39.15,2025-09-17,01:42:38,Cash,37.29,4.76,1.86,7.7
+09af669f,A,City C,menbro,Male,Eletronic accessories,84.18,3,12.63,265.17,2025-07-22,08:17:05,Credit Card,252.54,4.76,12.63,8.6
+a758838a,B,City B,menbro,Female,Health and beauty,61.75,5,15.44,324.19,2025-04-11,19:33:57,Cash,308.75,4.76,15.44,9.8
+da12690d,C,City A,menbro,Female,Fashion accessories,35.76,9,16.09,337.93,2025-11-09,12:09:03,Ewallet,321.84,4.76,16.09,6.9
+670c201a,B,City C,visitante,Female,Home and life style,69.74,4,13.95,292.91,2025-07-29,20:32:55,Cash,278.96,4.76,13.95,9.4
+60ded9a9,C,City C,menbro,Female,Food and beverages,83.56,6,25.07,526.43,2025-10-08,08:13:33,Ewallet,501.36,4.76,25.07,4.3
+d47397ca,A,City A,visitante,Male,Eletronic accessories,31.13,5,7.78,163.43,2025-07-12,02:18:04,Cash,155.65,4.76,7.78,4.1
+5173f81c,B,City A,visitante,Male,Eletronic accessories,73.5,9,33.08,694.58,2025-12-13,02:47:17,Cash,661.5,4.76,33.08,5.0
+049daddd,A,City C,menbro,Female,Sport and travel,38.9,2,3.89,81.69,2025-11-17,02:50:07,Cash,77.8,4.76,3.89,9.1
+acfed9ff,A,City C,menbro,Female,Eletronic accessories,42.23,2,4.22,88.68,2025-02-24,08:52:47,Credit Card,84.46,4.76,4.22,6.0
+06a4b8c9,B,City B,menbro,Female,Eletronic accessories,31.27,1,1.56,32.83,2025-05-23,19:50:52,Credit Card,31.27,4.76,1.56,6.6
+c68f4b3b,A,City C,visitante,Female,Eletronic accessories,15.22,2,1.52,31.96,2025-09-03,14:12:55,Credit Card,30.44,4.76,1.52,9.7
+c8395507,A,City C,menbro,Male,Food and beverages,44.03,5,11.01,231.16,2025-11-02,01:22:19,Ewallet,220.15,4.76,11.01,5.0
+b5ce2be0,C,City B,visitante,Male,Fashion accessories,92.48,1,4.62,97.1,2025-11-03,18:30:09,Credit Card,92.48,4.76,4.62,8.7
+c7ec482f,A,City A,menbro,Female,Eletronic accessories,54.01,3,8.1,170.13,2025-08-15,05:31:18,Credit Card,162.03,4.76,8.1,7.0
+93125da9,A,City C,menbro,Male,Sport and travel,42.24,2,4.22,88.7,2025-10-04,18:04:47,Credit Card,84.48,4.76,4.22,8.7
+8e710f7d,A,City C,visitante,Female,Fashion accessories,58.25,5,14.56,305.81,2026-01-16,17:50:17,Cash,291.25,4.76,14.56,4.6
+004e1b2a,C,City A,visitante,Female,Sport and travel,87.54,1,4.38,91.92,2025-06-29,08:05:14,Ewallet,87.54,4.76,4.38,7.0
+a4133739,B,City C,menbro,Female,Fashion accessories,19.77,10,9.88,207.58,2025-07-03,20:36:48,Credit Card,197.7,4.76,9.88,9.2
+015744a2,C,City A,visitante,Female,Food and beverages,87.97,6,26.39,554.21,2025-12-20,09:20:03,Ewallet,527.82,4.76,26.39,9.4
+1735d41f,C,City B,visitante,Male,Fashion accessories,98.87,2,9.89,207.63,2026-01-08,18:26:32,Cash,197.74,4.76,9.89,7.9
+fa110d61,A,City B,menbro,Male,Sport and travel,56.06,7,19.62,412.04,2025-03-05,19:00:45,Credit Card,392.42,4.76,19.62,9.9
+23365bf5,B,City A,visitante,Male,Health and beauty,14.07,6,4.22,88.64,2025-07-13,13:05:43,Cash,84.42,4.76,4.22,6.9
+9f968ab8,A,City C,menbro,Male,Home and life style,16.13,8,6.45,135.49,2025-12-14,02:56:52,Credit Card,129.04,4.76,6.45,5.3
+d0ca4192,C,City A,menbro,Male,Fashion accessories,91.69,6,27.51,577.65,2025-05-31,17:46:44,Credit Card,550.14,4.76,27.51,4.3
+186263c4,A,City B,menbro,Female,Sport and travel,40.21,9,18.09,379.98,2025-11-20,00:35:48,Credit Card,361.89,4.76,18.09,5.9
+24f1d7b0,A,City B,visitante,Female,Eletronic accessories,65.47,5,16.37,343.72,2025-12-16,00:10:33,Ewallet,327.35,4.76,16.37,4.4
+2be0ed26,C,City A,visitante,Female,Sport and travel,83.64,3,12.55,263.47,2025-11-28,22:01:22,Ewallet,250.92,4.76,12.55,4.7
+c307f52d,A,City B,menbro,Female,Fashion accessories,51.33,8,20.53,431.17,2025-12-13,09:12:17,Credit Card,410.64,4.76,20.53,8.2
+a41f696a,A,City B,visitante,Female,Sport and travel,50.89,6,15.27,320.61,2025-08-16,19:17:16,Ewallet,305.34,4.76,15.27,6.1
+9a6bbaf4,A,City B,visitante,Male,Fashion accessories,17.0,7,5.95,124.95,2025-02-26,00:30:58,Ewallet,119.0,4.76,5.95,6.3
+03fc55a5,C,City A,menbro,Female,Sport and travel,24.97,10,12.48,262.18,2025-11-26,14:38:34,Ewallet,249.7,4.76,12.48,4.6
+e5a75381,B,City A,menbro,Female,Fashion accessories,85.28,5,21.32,447.72,2025-05-13,07:11:51,Cash,426.4,4.76,21.32,9.9
+48551264,A,City B,menbro,Female,Food and beverages,13.42,9,6.04,126.82,2025-08-16,18:33:25,Credit Card,120.78,4.76,6.04,4.5
+cc2942ec,C,City B,visitante,Female,Fashion accessories,12.71,6,3.81,80.07,2026-02-17,03:18:50,Ewallet,76.26,4.76,3.81,4.6
+2e5579e5,C,City B,visitante,Male,Health and beauty,36.55,6,10.96,230.26,2026-02-03,07:30:31,Ewallet,219.3,4.76,10.96,5.9
+98606757,A,City B,visitante,Male,Sport and travel,60.3,5,15.08,316.58,2025-05-08,04:16:23,Cash,301.5,4.76,15.08,9.2
+f89f6f20,B,City B,visitante,Male,Sport and travel,33.28,6,9.98,209.66,2025-11-11,16:11:48,Credit Card,199.68,4.76,9.98,8.7
+1ecffee0,C,City B,visitante,Male,Eletronic accessories,84.3,7,29.51,619.61,2025-04-18,16:14:28,Credit Card,590.1,4.76,29.51,9.1
+ddd8991b,B,City A,menbro,Male,Food and beverages,96.95,3,14.54,305.39,2025-12-12,10:09:48,Cash,290.85,4.76,14.54,7.1
+6e35c260,B,City B,menbro,Female,Health and beauty,17.15,2,1.71,36.01,2025-09-08,00:02:25,Cash,34.3,4.76,1.71,9.1
+232c1f9d,B,City C,visitante,Female,Food and beverages,57.11,3,8.57,179.9,2025-11-18,01:34:35,Ewallet,171.33,4.76,8.57,9.0
+72b1b063,B,City C,menbro,Female,Fashion accessories,82.94,6,24.88,522.52,2025-09-20,10:43:00,Cash,497.64,4.76,24.88,6.5
+e6acabca,B,City C,menbro,Male,Health and beauty,85.05,8,34.02,714.42,2025-07-18,16:11:32,Cash,680.4,4.76,34.02,5.8
+8d90dfe6,A,City B,menbro,Male,Health and beauty,34.12,2,3.41,71.65,2026-01-29,22:44:27,Ewallet,68.24,4.76,3.41,8.3
+a7e40796,B,City C,menbro,Female,Food and beverages,19.98,10,9.99,209.79,2025-09-01,18:26:24,Credit Card,199.8,4.76,9.99,9.9
+979aa6ac,C,City C,menbro,Male,Fashion accessories,11.18,8,4.47,93.91,2026-01-19,06:41:47,Ewallet,89.44,4.76,4.47,8.2
+0241dde5,A,City A,menbro,Male,Sport and travel,69.58,9,31.31,657.53,2025-09-25,08:46:55,Ewallet,626.22,4.76,31.31,8.0
+98779b57,C,City B,visitante,Male,Sport and travel,75.69,4,15.14,317.9,2025-09-12,11:55:34,Ewallet,302.76,4.76,15.14,9.0
+c61350de,B,City A,visitante,Female,Food and beverages,40.01,3,6.0,126.03,2026-01-08,21:07:29,Credit Card,120.03,4.76,6.0,4.5
+a2132824,B,City A,visitante,Male,Food and beverages,22.59,7,7.91,166.04,2025-09-01,02:14:57,Credit Card,158.13,4.76,7.91,8.4
+0d948b7c,C,City C,menbro,Male,Fashion accessories,53.08,7,18.58,390.14,2025-07-26,21:26:15,Credit Card,371.56,4.76,18.58,8.3
+5ae35411,A,City B,menbro,Female,Eletronic accessories,65.21,9,29.34,616.23,2025-09-14,03:47:04,Credit Card,586.89,4.76,29.34,6.7
+027ae8fe,A,City A,visitante,Female,Sport and travel,68.12,2,6.81,143.05,2025-11-29,02:25:54,Ewallet,136.24,4.76,6.81,5.1
+4c7024b8,B,City A,menbro,Female,Fashion accessories,40.18,5,10.05,210.95,2025-03-01,13:19:03,Ewallet,200.9,4.76,10.05,8.7
+53029c6b,A,City B,visitante,Female,Eletronic accessories,76.82,1,3.84,80.66,2025-07-12,02:38:19,Credit Card,76.82,4.76,3.84,9.5
+4a9a4eb0,C,City A,menbro,Male,Health and beauty,98.98,4,19.8,415.72,2025-12-04,00:37:50,Credit Card,395.92,4.76,19.8,6.0
+99515e16,B,City B,menbro,Female,Health and beauty,35.76,7,12.52,262.84,2025-07-31,15:50:47,Cash,250.32,4.76,12.52,6.3
+7316bc4d,B,City A,visitante,Male,Food and beverages,64.38,1,3.22,67.6,2026-02-03,15:01:05,Cash,64.38,4.76,3.22,5.2
+cb6cf255,A,City A,visitante,Male,Home and life style,24.78,9,11.15,234.17,2025-06-22,20:41:40,Ewallet,223.02,4.76,11.15,9.6
+6a8b2b5e,B,City B,menbro,Male,Eletronic accessories,21.31,2,2.13,44.75,2025-03-06,05:16:56,Cash,42.62,4.76,2.13,6.0
+ce9e2432,B,City A,menbro,Female,Health and beauty,72.67,4,14.53,305.21,2025-09-15,00:25:23,Credit Card,290.68,4.76,14.53,5.1
+5582186e,A,City B,visitante,Male,Food and beverages,63.14,8,25.26,530.38,2026-01-28,12:18:15,Ewallet,505.12,4.76,25.26,4.3
+c7952d7f,B,City C,menbro,Female,Health and beauty,49.2,10,24.6,516.6,2025-09-06,20:37:12,Ewallet,492.0,4.76,24.6,6.7
+e92e6edd,A,City B,menbro,Female,Fashion accessories,65.28,2,6.53,137.09,2025-05-30,08:50:18,Cash,130.56,4.76,6.53,4.1
+709c3df3,B,City C,visitante,Male,Food and beverages,21.48,8,8.59,180.43,2025-05-10,08:33:57,Cash,171.84,4.76,8.59,5.3
+a3089c1c,B,City A,menbro,Male,Sport and travel,71.21,10,35.6,747.7,2025-04-09,02:18:21,Cash,712.1,4.76,35.6,9.4
+344344e1,A,City C,visitante,Female,Home and life style,96.71,7,33.85,710.82,2026-02-19,15:00:16,Credit Card,676.97,4.76,33.85,8.4
+d286c403,C,City B,menbro,Female,Health and beauty,96.89,6,29.07,610.41,2025-10-27,05:51:29,Cash,581.34,4.76,29.07,9.6
+968d7767,B,City C,menbro,Male,Eletronic accessories,92.82,10,46.41,974.61,2025-09-02,22:11:19,Cash,928.2,4.76,46.41,5.8
+a6f96d62,B,City C,menbro,Male,Home and life style,27.76,8,11.1,233.18,2025-09-02,23:40:21,Credit Card,222.08,4.76,11.1,5.6
+1db6316e,A,City B,visitante,Female,Food and beverages,26.72,4,5.34,112.22,2025-09-09,21:36:03,Credit Card,106.88,4.76,5.34,7.7
+e42b81be,B,City B,menbro,Male,Sport and travel,17.53,5,4.38,92.03,2025-08-05,00:50:30,Credit Card,87.65,4.76,4.38,5.7
+27776ecd,B,City C,menbro,Female,Sport and travel,87.26,3,13.09,274.87,2025-12-20,05:27:21,Credit Card,261.78,4.76,13.09,7.2
+afe5c759,A,City B,menbro,Male,Home and life style,10.32,9,4.64,97.52,2025-09-30,11:01:07,Credit Card,92.88,4.76,4.64,4.4
+322c9ebf,A,City B,menbro,Female,Home and life style,42.4,2,4.24,89.04,2025-08-11,03:42:05,Credit Card,84.8,4.76,4.24,9.6
+32d7e730,B,City A,visitante,Female,Food and beverages,92.23,4,18.45,387.37,2025-12-22,16:33:17,Ewallet,368.92,4.76,18.45,5.2
+3c602929,A,City C,menbro,Female,Fashion accessories,98.65,2,9.87,207.17,2026-01-01,22:41:03,Credit Card,197.3,4.76,9.87,10.0
+ba4f54d0,C,City C,menbro,Female,Fashion accessories,57.98,1,2.9,60.88,2026-01-13,03:23:44,Credit Card,57.98,4.76,2.9,8.4
+8a52455e,A,City C,visitante,Male,Sport and travel,17.06,4,3.41,71.65,2025-12-03,20:46:12,Credit Card,68.24,4.76,3.41,6.2
+d53facaf,B,City A,menbro,Female,Eletronic accessories,72.69,9,32.71,686.92,2025-08-01,07:53:44,Ewallet,654.21,4.76,32.71,7.5
+c90509a7,B,City C,visitante,Male,Food and beverages,79.59,6,23.88,501.42,2026-01-11,01:32:13,Ewallet,477.54,4.76,23.88,4.0
+163e4aae,B,City B,menbro,Male,Fashion accessories,58.71,1,2.94,61.65,2025-06-19,06:26:32,Credit Card,58.71,4.76,2.94,8.4
+a7241f13,C,City B,menbro,Male,Sport and travel,80.14,2,8.01,168.29,2026-01-22,00:57:23,Cash,160.28,4.76,8.01,5.4
+6319a070,C,City C,menbro,Male,Sport and travel,58.29,9,26.23,550.84,2025-07-14,16:00:51,Ewallet,524.61,4.76,26.23,5.5
+405433bf,B,City C,menbro,Male,Home and life style,91.18,1,4.56,95.74,2025-07-21,21:02:12,Cash,91.18,4.76,4.56,5.0
+71f1adc0,A,City A,menbro,Male,Food and beverages,17.69,4,3.54,74.3,2025-04-08,01:44:14,Credit Card,70.76,4.76,3.54,5.7
+f482c0f9,A,City C,menbro,Male,Health and beauty,71.86,8,28.74,603.62,2025-03-02,13:48:40,Credit Card,574.88,4.76,28.74,6.9
+5deb8c75,A,City C,menbro,Male,Sport and travel,30.63,9,13.78,289.45,2025-03-21,13:45:37,Ewallet,275.67,4.76,13.78,6.5
+571c0714,A,City C,menbro,Male,Fashion accessories,52.18,1,2.61,54.79,2026-02-10,18:00:21,Ewallet,52.18,4.76,2.61,8.5
+8bedbea1,B,City C,visitante,Male,Fashion accessories,34.38,8,13.75,288.79,2025-04-13,20:54:35,Credit Card,275.04,4.76,13.75,4.5
+860ced48,A,City C,menbro,Female,Food and beverages,17.24,7,6.03,126.71,2025-08-24,12:37:33,Cash,120.68,4.76,6.03,6.1
+dee315b3,C,City A,menbro,Female,Food and beverages,11.98,3,1.8,37.74,2025-10-02,20:47:09,Cash,35.94,4.76,1.8,5.2
+31f5c6dc,C,City B,visitante,Male,Eletronic accessories,90.02,5,22.5,472.6,2025-05-05,18:11:08,Cash,450.1,4.76,22.5,4.1
+254d7330,B,City B,visitante,Female,Eletronic accessories,22.66,8,9.06,190.34,2025-03-30,13:12:46,Ewallet,181.28,4.76,9.06,5.5
+ec5082f2,C,City C,visitante,Female,Sport and travel,69.56,3,10.43,219.11,2025-07-03,02:53:56,Credit Card,208.68,4.76,10.43,7.5
+4719bd94,A,City C,visitante,Female,Eletronic accessories,89.89,7,31.46,660.69,2025-08-21,13:40:50,Cash,629.23,4.76,31.46,8.7
+0bcf6232,B,City B,visitante,Female,Food and beverages,37.33,9,16.8,352.77,2025-08-09,01:33:52,Cash,335.97,4.76,16.8,4.3
+926cb50c,B,City A,visitante,Female,Fashion accessories,98.37,7,34.43,723.02,2025-05-10,21:36:05,Ewallet,688.59,4.76,34.43,8.4
+f321f60d,C,City C,menbro,Female,Health and beauty,64.14,8,25.66,538.78,2025-06-29,09:55:10,Credit Card,513.12,4.76,25.66,8.6
+e0fd5336,C,City C,menbro,Female,Sport and travel,94.27,8,37.71,791.87,2025-09-19,15:20:07,Ewallet,754.16,4.76,37.71,4.4
+a424653c,A,City B,visitante,Male,Sport and travel,61.78,9,27.8,583.82,2026-01-09,19:19:21,Cash,556.02,4.76,27.8,7.6
+06e76d20,B,City A,menbro,Female,Home and life style,57.33,3,8.6,180.59,2026-01-11,18:10:14,Cash,171.99,4.76,8.6,9.2
+63396992,B,City A,menbro,Female,Sport and travel,27.93,4,5.59,117.31,2025-05-10,01:03:53,Ewallet,111.72,4.76,5.59,8.9
+fafb7d58,C,City A,visitante,Male,Sport and travel,56.88,9,25.6,537.52,2025-06-26,02:33:33,Ewallet,511.92,4.76,25.6,9.5
+3dc3a634,C,City A,menbro,Female,Fashion accessories,88.37,7,30.93,649.52,2025-04-21,17:16:20,Ewallet,618.59,4.76,30.93,8.7
+ec2701ec,B,City B,menbro,Male,Fashion accessories,74.89,6,22.47,471.81,2026-01-02,23:14:28,Cash,449.34,4.76,22.47,5.0
+8b4d2724,C,City B,visitante,Male,Fashion accessories,16.88,10,8.44,177.24,2025-11-05,15:14:47,Cash,168.8,4.76,8.44,9.4
+c34f4286,B,City B,visitante,Female,Fashion accessories,87.33,4,17.47,366.79,2025-05-27,05:49:55,Ewallet,349.32,4.76,17.47,8.3
+bdf45542,B,City B,menbro,Male,Fashion accessories,91.61,1,4.58,96.19,2025-04-07,05:46:41,Cash,91.61,4.76,4.58,7.3
